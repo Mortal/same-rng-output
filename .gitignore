@@ -1,0 +1,4 @@
+*.swp
+/get_seed
+/rng
+/set_seed
